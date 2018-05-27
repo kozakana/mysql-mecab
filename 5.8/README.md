@@ -1,6 +1,6 @@
 # About this directory
 
-This directory is docker setting of mysql 5.7 which includes mecab parser.
+This directory is docker setting of mysql 8.0 which includes mecab parser.
 
 ## Settings
 ### my.cnf
